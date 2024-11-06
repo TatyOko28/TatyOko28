@@ -32,7 +32,7 @@
   <li>Experience with Git version control system (cherry-pick, merge, stash).</li>
   <li>Basic knowledge of CI/CD, Docker, AWS processes.</li>
   <li>Experience publishing mobile applications in app stores.</li>
-</ul>
+</ul><br/>
 
 <h2>🌐 For Web Applications:</h2>
 <ul>
@@ -44,7 +44,7 @@
   <li>Understanding of responsive layout principles and cross-browser compatibility.</li>
   <li>Ability to read, analyze, and maintain others' code.</li>
   <li>Write high-quality code and interact with databases and queues.</li>
-</ul>
+</ul><br/>
 
 <h1>🌟 Why Choose Me?</h1>
 <p>I can:</p>
@@ -53,7 +53,7 @@
   <li>Tackle global-scale, non-trivial challenges.</li>
   <li>Grow with unparalleled learning and advancement opportunities.</li>
   <li>Speak English, Russian, and French.</li>
-</ul>
+</ul><br/>
 
 <h1>🌐 List of Web and Mobile Applications</h1>
 <p>(To be filled in with specific application details as needed.)</p>
