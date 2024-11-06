@@ -57,4 +57,5 @@
 
 <h1>🌐 List of Web and Mobile Applications</h1>
 <a href="https://drive.google.com/file/d/11nT_u_BkbtGO2p4eb0csyJQ-dlX3nMaf/view" target="_blank">Visit my certificates!</a>
+<a href="https://drive.google.com/file/d/11nT_u_BkbtGO2p4eb0csyJQ-dlX3nMaf/view" target="_blank">Visit my certificates!</a>
 <p>(To be filled in with specific application details as needed.)</p>
