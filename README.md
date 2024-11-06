@@ -1,10 +1,79 @@
-<h3 align="center" >
-  <b>Who I am :grey_question:</b>
-</h3>
+<h2 align="center" >
+  <b>Role Summary: grey_question:</b>
+</h2>
 <p align="justify">
-As a passionate self-taught Full Stack Developer, I merge creativity and technical expertise to design digital solutions that are both technically robust and sustainably designed. Committed to continuous learning, I strive to contribute to open source projects, allowing those who need to use my projects to discover, wherever possible, the technologies I employ. Indeed, my initial training in natural resources engineering equipped me with a unique perspective on the importance of sustainability in technological development. <br/>
-During college, I dedicated every evening to learning how to code. Over time, this passion for programming became a tangible reality. In February 2020, I started as a junior at @madoumadev. However, the desire to learn and develop new skills never faded. As a result, I've expanded my technical repertoire to include cutting-edge technologies like Python, Django, React JS, Redux, TypeScript and more. This quest for knowledge was not limited to mastering new languages and frameworks; this has extended to understanding and leveraging tools that improve development workflows, such as Postman, AWS, Docker, and Git, among others.<br/>
-My hands-on experience with databases, web programming and API integration, complemented by my mastery of creating responsive layouts, ensures that I bring a well-rounded set of skills to any project. My active contributions to open source projects reflect my commitment to knowledge sharing and community building, values that are increasingly vital in today's collaborative digital landscape.<br/>
-As a middle full stack developer, my individual and collaborative project work has resulted in robust, user-centric applications that are a testament to my abilities. With my contract ending in February 2024, I look forward to finding a new opportunity where my passion for creating and versatile skills will continue to flourish and drive the success of the company.<br/>
-I welcome the opportunity to discuss how my background, skills and enthusiasm can align with your company's goals. In anticipation of future collaborations, I invite you to browse my GitHub page for a portfolio of my work and a preview of what I can bring to your team.
-<p>
+I’m a highly skilled and motivated full stack Developer, I build advanced cross mobile platforms (native iOS and Android) and web-application with 3+ years of experience. I already developed, and maintained high-performance mobile, web applications that deliver seamless user experiences. Usually for the: 
+</p> <br/>
+<ul align="justify">
+  <li>frontend I use React, NextJS (SSR, SSG, CSR,), React Native, Expo, Typescript, JavaScript (ES6+), Redux, Zustand, Tailwind, Nativewind, Webpack, Vite;</li>
+  <li>backend I use several frameworks such as: Django, Strapi, ExpressJS and Prisma;</li>
+  <li>Database that I use: Supabase, postgresql, mysql, NeonDB, MongoDB</li>
+</ul><br/><br/>
+<h3 align="center">
+  <b>Responsibilities and abilities:</b>
+</h3><br/>
+<h3 align="start">
+  <b>For the Mobile-applications:</b>
+</h3><br/>
+<ul align="justify">
+  <li>Build advanced native android and ios applications using React Native Expo and the latest SDKs;</li>
+  <li>Collaborate with cross-functional teams to define, design, and ship new features;</li>
+  <li>Integrate AI functionalities into the mobile application;</li>
+  <li>Ensure the performance, quality, and responsiveness of applications;</li>
+  <li>Identify and fix bottlenecks and bugs;</li>
+  <li>Maintain code quality, organization, and automation;</li>
+  <li>Stay updated with the latest industry trends and technologies;</li>
+  <li>Proven experience in developing the native android and ios apps with 1M+ users;</li>
+  <li>Experience in implementing advanced Mobile- applications functionality from scratch;</li>
+  <li>Familiarity with cloud messaging APIs and push notifications;</li>
+  <li>Native project components (Photo & Video, Gallery, Share, Contacts, Push Notifications, Deep Linking, Geolocation etc), React Navigation, Animations (Reanimated), Cloudinary (for optimization images and videos);</li>
+  <li>Clerk authentication;</li>
+  <li>tripy to manage payments automatically at the chosen frequency (monthly, weekly, daily);</li>
+  <li>Experience in customizing/writing native React Native components (Objective C / Swift / Java / Kotlin);</li>
+  <li> Experience to build mobile Messaging and call app, Fintech app, Google.Maps API app, E-commerce app;</li>
+  <li>Experience with client-server applications (rest/websockets);</li>
+  <li>Experience with CocoaPods, Gradle;</li>
+  <li>Strong problem-solving skills and attention to detail;</li>
+  <li>Experience with the Git version control system (cherry-pick, merge, stash);</li>
+  <li> Knowledge of the basics of CI/CD, Docker, AWS processes;</li>
+  <li>Experience in publishing mobile applications in stores</li>
+</ul><br/> <br/>
+<h3 align="start">
+  <b>For the web-applications:</b>
+</h3><br/>
+<ul align="justify">
+  <li>Experience in implementing advanced web-applications functionality from scratch;</li>
+   <li>Knowledge of web application performance optimization methods;</li>
+   <li>Knowledge and work with the MERN stack (MongoDB, Express, React, Node.js);</li>
+   <li>Experience in integrating frontend with backend;</li>
+   <li>Experience with external API integrations;</li>
+   <li>Understanding the principles of responsive layout and cross-browser compatibility;</li>
+   <li>Ability to read, analyze and maintain other people's code;</li>
+   <li>Write high-quality code and interact with databases and queues.</li>
+</ul> <br/></br>
+<h3 align="center">
+  <b>Why Me?</b> <br/>
+</h3><br/>
+<p align="justify"> I can:</p> <br/>
+<ul align="justify">
+  <li> Work with a world-class team, setting new benchmarks;</li>
+   <li>Global-scale tackle, non-trivial challenges;</li>
+   <li>Grow with unparalleled learning and advancement opportunities;</li>
+   <li>Speak English, Russian and French;</li>
+</ul><br/><br/><br/>
+
+<h3 align="start">
+  <b>
+    Here is the list of some web and mobile applications
+  </b>
+  </h2>
+
+
+
+
+
+
+
+
+  
+
