@@ -56,5 +56,14 @@
 </ul><br/>
 
 <h1>🌐 List of Web and Mobile Applications</h1>
+<a href="https://wallet-an.netlify.app/" target="_blank" rel="noopener noreferrer">Wallet Web-app</a><br/>
+<a href="https://lianau.netlify.app/" target="_blank" rel="noopener noreferrer">Single-page Web-app</a><br/>
+<a href="https://bouesso-service.netlify.app/" target="_blank" rel="noopener noreferrer">bouesso-service Web-app</a><br/>
+<a href="https://mak-spa.netlify.app/" target="_blank" rel="noopener noreferrer">mak-spa Web-app</a><br/>
+<a href="https://super-torte-1b66dc.netlify.app/" target="_blank" rel="noopener noreferrer">super-torte Web-app</a><br/>
+<a href="https://sponb.netlify.app/" target="_blank" rel="noopener noreferrer">Movies Web-app</a><br/>
+<a href="https://wallet-an.netlify.app/" target="_blank" rel="noopener noreferrer">Wallet Web-app</a><br/>
+<a href="https://elegant-tanuki-cf4abd.netlify.app/" target="_blank" rel="noopener noreferrer">elegant Web-app</a><br/>
+<a href="https://mak-developer.netlify.app/" target="_blank" rel="noopener noreferrer">Vente Web-app</a><br/>
 <a href="https://drive.google.com/file/d/11nT_u_BkbtGO2p4eb0csyJQ-dlX3nMaf/view" target="_blank" rel="noopener noreferrer">Visit my certificates!</a>
 <p>(To be filled in with specific application details as needed.)</p>
