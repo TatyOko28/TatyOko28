@@ -48,7 +48,7 @@
 </ul>
 
 
-<h1>🌟 Why Me?</h1>
+<h1>🌟 Why Choose Me?</h1>
 <p>I can:</p>
 <ul>
   <li>Work with a world-class team, setting new benchmarks.</li>
