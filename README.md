@@ -2,19 +2,19 @@
   <b>Role Summary: grey_question:</b>
 </h2>
 <p align="justify">
-I’m a highly skilled and motivated full stack Developer, I build advanced cross mobile platforms (native iOS and Android) and web-application with 3+ years of experience. I already developed, and maintained high-performance mobile, web applications that deliver seamless user experiences. Usually for the: 
-</p> <br/>
+I’m a highly skilled and motivated full stack Developer, I build advanced cross mobile platforms (native iOS and Android) and web-application with 3+ years of experience. I already developed, and maintained high-performance mobile, web applications that deliver seamless user experiences. <br/> Usually for the: 
+</p> 
 <ul align="justify">
-  <li>frontend I use React, NextJS (SSR, SSG, CSR,), React Native, Expo, Typescript, JavaScript (ES6+), Redux, Zustand, Tailwind, Nativewind, Webpack, Vite;</li>
-  <li>backend I use several frameworks such as: Django, Strapi, ExpressJS and Prisma;</li>
+  <li>Frontend I use React, NextJS (SSR, SSG, CSR,), React Native, Expo, Typescript, JavaScript (ES6+), Redux, Zustand, Tailwind, Nativewind, Webpack, Vite;</li>
+  <li>Backend I use several frameworks such as: Django, Strapi, ExpressJS and Prisma;</li>
   <li>Database that I use: Supabase, postgresql, mysql, NeonDB, MongoDB</li>
-</ul><br/><br/>
+</ul><br/>
 <h3 align="center">
   <b>Responsibilities and abilities:</b>
 </h3><br/>
 <h3 align="start">
   <b>For the Mobile-applications:</b>
-</h3><br/>
+</h3>
 <ul align="justify">
   <li>Build advanced native android and ios applications using React Native Expo and the latest SDKs;</li>
   <li>Collaborate with cross-functional teams to define, design, and ship new features;</li>
@@ -37,10 +37,10 @@ I’m a highly skilled and motivated full stack Developer, I build advanced cros
   <li>Experience with the Git version control system (cherry-pick, merge, stash);</li>
   <li> Knowledge of the basics of CI/CD, Docker, AWS processes;</li>
   <li>Experience in publishing mobile applications in stores</li>
-</ul><br/> <br/>
+</ul><br/>
 <h3 align="start">
   <b>For the web-applications:</b>
-</h3><br/>
+</h3>
 <ul align="justify">
   <li>Experience in implementing advanced web-applications functionality from scratch;</li>
    <li>Knowledge of web application performance optimization methods;</li>
@@ -50,17 +50,17 @@ I’m a highly skilled and motivated full stack Developer, I build advanced cros
    <li>Understanding the principles of responsive layout and cross-browser compatibility;</li>
    <li>Ability to read, analyze and maintain other people's code;</li>
    <li>Write high-quality code and interact with databases and queues.</li>
-</ul> <br/></br>
+</ul> <br/>
 <h3 align="center">
-  <b>Why Me?</b> <br/>
+  <b>Why Me?</b> 
 </h3><br/>
-<p align="justify"> I can:</p> <br/>
+<p align="justify"> I can:</p>
 <ul align="justify">
   <li> Work with a world-class team, setting new benchmarks;</li>
    <li>Global-scale tackle, non-trivial challenges;</li>
    <li>Grow with unparalleled learning and advancement opportunities;</li>
    <li>Speak English, Russian and French;</li>
-</ul><br/><br/><br/>
+</ul><br/><br/>
 
 <h3 align="start">
   <b>
