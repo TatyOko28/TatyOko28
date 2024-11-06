@@ -23,7 +23,7 @@
   <li>Familiarity with cloud messaging APIs and push notifications.</li>
   <li>Use native components (Photos & Videos, Gallery, Sharing, Contacts, Push Notifications, Deep Linking, Geolocation, etc.), React Navigation, Reanimated (animations), and Cloudinary (for image and video optimization).</li>
   <li>Clerk authentication.</li>
-  <li>Tripy for managing payments automatically at chosen frequencies (monthly, weekly, daily).</li>
+  <li>Stripe for managing payments automatically at chosen frequencies (monthly, weekly, daily).</li>
   <li>Experience customizing and writing native React Native components (Objective-C, Swift, Java, Kotlin).</li>
   <li>Built mobile messaging, fintech, Google Maps API, and e-commerce apps.</li>
   <li>Experience with client-server applications (REST/WebSockets).</li>
