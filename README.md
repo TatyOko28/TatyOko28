@@ -65,5 +65,5 @@
 <a href="https://wallet-an.netlify.app/" target="_blank" rel="noopener noreferrer">Wallet Web-app</a><br/>
 <a href="https://elegant-tanuki-cf4abd.netlify.app/" target="_blank" rel="noopener noreferrer">elegant Web-app</a><br/>
 <a href="https://mak-developer.netlify.app/" target="_blank" rel="noopener noreferrer">Vente Web-app</a><br/>
-<a href="https://drive.google.com/file/d/11nT_u_BkbtGO2p4eb0csyJQ-dlX3nMaf/view" target="_blank" rel="noopener noreferrer">Visit my certificates!</a>
+<a href="https://drive.google.com/file/d/11nT_u_BkbtGO2p4eb0csyJQ-dlX3nMaf/view" target="_blank" rel="noopener noreferrer">Visite my certificates!</a>
 <p>(To be filled in with specific application details as needed.)</p>
