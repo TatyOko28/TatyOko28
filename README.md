@@ -59,11 +59,12 @@
 <h2>🌐 List of Web-App</h2>
 <a href="https://wallet-an.netlify.app/" target="_blank" rel="noopener noreferrer">Wallet Web-app</a><br/>
 <a href="https://lianau.netlify.app/" target="_blank" rel="noopener noreferrer">Single-page Web-app</a><br/>
+<a href="https://sprir.netlify.app/" target="_blank" rel="noopener noreferrer">Cerveau Web-app</a><br/>
 <a href="https://bouesso-service.netlify.app/" target="_blank" rel="noopener noreferrer">bouesso-service Web-app</a><br/>
 <a href="https://mak-spa.netlify.app/" target="_blank" rel="noopener noreferrer">mak-spa Web-app</a><br/>
-<a href="https://super-torte-1b66dc.netlify.app/" target="_blank" rel="noopener noreferrer">super-torte Web-app</a><br/>
+<a href="https://nivo-two.vercel.app/" target="_blank" rel="noopener noreferrer">mak-spa Web-app</a><br/>
 <a href="https://sponb.netlify.app/" target="_blank" rel="noopener noreferrer">Movies Web-app</a><br/>
-<a href="https://elegant-tanuki-cf4abd.netlify.app/" target="_blank" rel="noopener noreferrer">elegant Web-app</a><br/>
+<a href="https://super-torte-1b66dc.netlify.app/" target="_blank" rel="noopener noreferrer">super-torte Web-app</a><br/>
 <a href="https://mak-developer.netlify.app/" target="_blank" rel="noopener noreferrer">Vente Web-app</a><br/>
 <a href="https://drive.google.com/file/d/11nT_u_BkbtGO2p4eb0csyJQ-dlX3nMaf/view" target="_blank" rel="noopener noreferrer">Visite my certificates!</a><br/>
 <p text-align: justify>This project <a href="https://wallet-an.netlify.app/" target="_blank" rel="noopener noreferrer">Wallet Web-app</a> is a full-stack project (Reactjs-Django), I implemented it in the company where I worked. Because of the contract I had signed in this company, I am only able to present the frontend to you. If people are interested in knowing how its backend works and the updates that have been made, they can contact me privately because I am the one who implemented it from scratch until its deployment. There are other full-stack projects that you can find in my public projects and you can use them as you see fit, and other projects are private, so I keep that. I am open for anyone who wants to know more.</p><br/>
