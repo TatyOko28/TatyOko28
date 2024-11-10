@@ -70,7 +70,7 @@
 <p text-align: justify>This project <a href="https://wallet-an.netlify.app/" target="_blank" rel="noopener noreferrer">Wallet Web-app</a> is a full-stack project (Reactjs-Django), I implemented it in the company where I worked. Because of the contract I had signed in this company, I am only able to present the frontend to you. If people are interested in knowing how its backend works and the updates that have been made, they can contact me privately because I am the one who implemented it from scratch until its deployment. There are other full-stack projects that you can find in my public projects and you can use them as you see fit, and other projects are private, so I keep that. I am open for anyone who wants to know more.</p><br/>
 
 <h2>📱 Mobile-Apps</h2>
-<p text-align: justify>Concerning the native mobile projects (IOS and Android) that I had implemented, you can download them on your local machine using the guide that is found in each of these projects in the README.md file. Here are the links to these projects:
+<p text-align: justify>Concerning the native mobile projects (IOS and Android) that I had implemented, you can download them on your local machine using the guide that is found in each of these projects in the README.md file. Here are the links to these projects: </br>
 <a href="https://github.com/TatyOko28/Food-Ordering-Mob" target="_blank" rel="noopener noreferrer">Food_Ordering App 🍲</a><br/>
 <a href="https://github.com/TatyOko28/Fintech-app-Mob" target="_blank" rel="noopener noreferrer">FinTech Clone 🚀</a><br/>
 <a href="https://github.com/TatyOko28/AppleWallet-Mob" target="_blank" rel="noopener noreferrer">Apple Wallet Clone 💹</a><br/>
