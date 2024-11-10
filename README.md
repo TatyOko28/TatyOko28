@@ -71,4 +71,9 @@
 
 <h2>📱 Mobile-Apps</h2>
 <p text-align: justify>Concerning the native mobile projects (IOS and Android) that I had implemented, you can download them on your local machine using the guide that is found in each of these projects in the README.md file. Here are the links to these projects:</p>
-<p>(To be filled in with specific application details as needed.)</p>
+<a href="https://github.com/TatyOko28/Food-Ordering-Mob" target="_blank" rel="noopener noreferrer">Food Ordering Application 🍲</a><br/>
+<a href="https://github.com/TatyOko28/Fintech-app-Mob" target="_blank" rel="noopener noreferrer">FinTech Clone 🚀</a><br/>
+<a href="https://github.com/TatyOko28/AppleWallet-Mob" target="_blank" rel="noopener noreferrer">Apple Wallet Clone 📱</a><br/>
+<a href="https://github.com/TatyOko28/photos_APP-Mob" target="_blank" rel="noopener noreferrer">Vision Camera 📱</a><br/>
+<a href="https://github.com/TatyOko28/Food_UI-Mob" rel="noopener noreferrer">Food Ordering Application 🍔📲</a><br/>
+
