@@ -5,7 +5,7 @@
   <li>📲 Frontend: I use React, NextJS (SSR, SSG, CSR), React Native, Expo, TypeScript, JavaScript (ES6+), Redux, Zustand, Tailwind, Nativewind, Webpack, Vite.</li>
   <li>🖥️ Backend: I use several frameworks such as Django, Strapi, Node.JS (Express), and Prisma.</li>
   <li>🗄️ Databases: Supabase, PostgreSQL, MySQL, NeonDB, MongoDB.</li>
-  <li>➕ Others: Best Practices to Improve SEO; Unit, integration and end-to-end (E2E) testing, CI/CD, Sentry for error tracking, WebSocket, WebHook </li>
+  <li>➕ Others: Best Practices to Improve SEO; Unit, integration and end-to-end (E2E) testing; CI/CD; Sentry for error tracking; WebSocket; WebHook </li>
 </ul> <br/>
 
 <h1>🛠️ Responsibilities and Abilities</h1>
