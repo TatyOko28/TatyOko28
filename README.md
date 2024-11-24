@@ -79,7 +79,7 @@
 <a href="https://github.com/TatyOko28/Food_UI-Mob" rel="noopener noreferrer">Food Ordering Application 🍔📲</a><br/>
 </p><br/>
 
-<h2>>🖥️ Only Backend-Apps</h2>
+<h2>🖥️ Only Backend-Apps</h2>
 <p text-align: justify>Among these Mobile and Web projects, you will find Full-Stack applications (frontend + Backend), but for the devOps process, you will find it more in this section.  Here are the links to these projects: </br>
 <a href="https://github.com/TatyOko28/Fusion-Brain" target="_blank" rel="noopener noreferrer">Fusion-Brain with Node.js (Nest.js)</a><br/>
 <a href="https://github.com/TatyOko28/full-auth" target="_blank" rel="noopener noreferrer">full-auth with python</a><br/>
