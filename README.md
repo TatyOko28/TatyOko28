@@ -56,7 +56,7 @@
   <li>Speak English, Russian, and French.</li>
 </ul><br/>
 
-<h1>🔗 List of Web and Mobile Applications</h1>
+<h1>🔗 List of Web, Mobile and only Backend Applications</h1>
 <h2>🌐 List of Web-Apps</h2>
 <a href="https://wallet-an.netlify.app/" target="_blank" rel="noopener noreferrer">Wallet Web-app</a><br/>
 <a href="https://lianau.netlify.app/" target="_blank" rel="noopener noreferrer">Single-page Web-app</a><br/>
@@ -77,5 +77,12 @@
 <a href="https://github.com/TatyOko28/AppleWallet-Mob" target="_blank" rel="noopener noreferrer">Apple Wallet Clone 💹</a><br/>
 <a href="https://github.com/TatyOko28/photos_APP-Mob" target="_blank" rel="noopener noreferrer">Vision Camera 🎥</a><br/>
 <a href="https://github.com/TatyOko28/Food_UI-Mob" rel="noopener noreferrer">Food Ordering Application 🍔📲</a><br/>
+</p><br/>
+
+<h2>>🖥️ Only Backend-Apps</h2>
+<p text-align: justify>Among these Mobile and Web projects, you will find Full-Stack applications (frontend + Backend), but for the devOps process, you will find it more in this section.  Here are the links to these projects: </br>
+<a href="https://github.com/TatyOko28/Fusion-Brain" target="_blank" rel="noopener noreferrer">Fusion-Brain with Node.js (Nest.js)</a><br/>
+<a href="https://github.com/TatyOko28/full-auth" target="_blank" rel="noopener noreferrer">full-auth with python</a><br/>
+<a href="https://github.com/TatyOko28/Zole" target="_blank" rel="noopener noreferrer">realest_estate with python</a><br/>
 </p>
 
