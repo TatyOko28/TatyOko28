@@ -54,7 +54,7 @@
   <li>Tackle global-scale, non-trivial challenges.</li>
   <li>Grow with unparalleled learning and advancement opportunities.</li>
   <li>Speak English, Russian, and French.</li>
-  <li><p>Implement advanced application such as: Finance 🏦, Food 🍔, Sports 🏆, Shopping 🛍️, Business 💼, Entertainment 🍿, News 📰, Medical 💉, Education 🎓, Lifestyle 💺, Travel ✈️, Reference 📙, Health 💪, Social 💬, Music 🎵, Dev Tools 🛠️, Weather 🌦️, Photography 📸, Graphics 🖌️</p></li>
+  <li><p>Implement advanced application such as: Finance 🏦, Food 🍔, Sports 🏆, Shopping 🛍️, Business 💼, Entertainment 🍿, News 📰, Medical 💉, Education 🎓, Lifestyle 💺, Travel ✈️, Reference 📙, Health 💪, Social 💬, Music 🎵, Dev Tools 🛠️, Weather 🌦️, Photography 📸, Graphics 🖌️ and more</p></li>
 </ul> <br/>
 
 <h1>🔗 List of Web, Mobile and only Backend Applications</h1>
