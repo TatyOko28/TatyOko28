@@ -54,7 +54,8 @@
   <li>Tackle global-scale, non-trivial challenges.</li>
   <li>Grow with unparalleled learning and advancement opportunities.</li>
   <li>Speak English, Russian, and French.</li>
-</ul><br/>
+</ul>
+<p>Implement advanced application such as: Finance 🏦, Food 🍔, Sports 🏆, Shopping 🛍️, Business 💼, Entertainment 🍿, News 📰, Medical 💉, Education 🎓, Lifestyle 💺, Travel ✈️, Reference 📙, Health 💪, Social 💬, Music 🎵, Dev Tools 🛠️, Weather 🌦️, Photography 📸, Graphics 🖌️</p><br/>
 
 <h1>🔗 List of Web, Mobile and only Backend Applications</h1>
 <h2>🌐 List of Web-Apps</h2>
@@ -81,6 +82,7 @@
 
 <h2>🖥️ Only Backend-Apps</h2>
 <p text-align: justify>Among these Mobile and Web projects, you will find Full-Stack applications (frontend + Backend), but for the devOps process, you will find it more in this section.  Here are the links to these projects: </br>
+<a href="https://github.com/TatyOko28/crypto_exchange" target="_blank" rel="noopener noreferrer">crypto_exchange with python</a><br/>
 <a href="https://github.com/TatyOko28/Fusion-Brain" target="_blank" rel="noopener noreferrer">Fusion-Brain with Node.js (Nest.js)</a><br/>
 <a href="https://github.com/TatyOko28/full-auth" target="_blank" rel="noopener noreferrer">full-auth with python</a><br/>
 <a href="https://github.com/TatyOko28/Zole" target="_blank" rel="noopener noreferrer">realest_estate with python</a><br/>
