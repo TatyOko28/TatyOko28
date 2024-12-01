@@ -1,43 +1,30 @@
 <h1>🎯 Role Summary</h1>
-<p>I’m a highly skilled and motivated full stack developer. I build advanced cross-platform mobile (native iOS and Android) and web applications with over 3 years of experience. I have developed and maintained high-performance applications that deliver seamless user experiences.</p>
+<p>I am a highly skilled and motivated full stack developer with expertise in building robust cross-platform applications. With over 3 years of experience, I have successfully delivered web and mobile solutions that leverage cutting-edge technologies like AI, CI/CD pipelines, and microservices.</p>
 <p>Usually for the:</p>
 <ul>
-  <li>📲 Frontend: I use React, NextJS (SSR, SSG, CSR), React Native, Expo, TypeScript, JavaScript (ES6+), Redux, Zustand, Tailwind, Nativewind, Webpack, Vite.</li>
-  <li>🖥️ Backend: I use several frameworks such as Django, Strapi, Node.JS (Express), and Prisma.</li>
-  <li>🗄️ Databases: Supabase, PostgreSQL, MySQL, NeonDB, MongoDB.</li>
-  <li>➕ Others: Best Practices to Improve SEO; Unit, integration and end-to-end (E2E) testing; CI/CD; Sentry for error tracking; WebSocket; WebHook, Celery, Redis and more </li>
+  <li>📲 Frontend: React, Next.js (SSR, SSG, CSR), React Native, Expo, TypeScript, TailwindCSS, Zustand.</li>
+  <li>🖥️ Backend: Django, FastAPI, Node.js (Express/Nest), Prisma, microservices architecture.</li>
+  <li>🗄️ Databases: PostgreSQL, MySQL, MongoDB, Redis.</li>
+  <li>🧠 AI/ML: TensorFlow, PyTorch, Hugging Face, Scikit-learn.</li>
+  <li>🛠️ Others: CI/CD pipelines (GitHub Actions, GitLab CI), Docker, WebSockets, RabbitMQ, Celery, Sentry.</li>
 </ul> <br/>
 
 <h1>🛠️ Responsibilities and Abilities</h1>
 
 <h2>📱 For Mobile Applications:</h2>
-<ul>
-  <li>Build advanced native Android and iOS applications using React Native, Expo, and the latest SDKs.</li>
-  <li>Collaborate with cross-functional teams to define, design, and ship new features.</li>
-  <li>Integrate AI functionalities into mobile applications.</li>
-  <li>Ensure the performance, quality, and responsiveness of applications.</li>
-  <li>Identify and fix bottlenecks and bugs.</li>
-  <li>Maintain code quality, organization, and automation.</li>
-  <li>Stay updated with the latest industry trends and technologies.</li>
-  <li>Proven experience in developing Android and iOS apps with 1M+ users.</li>
-  <li>Implement advanced mobile application functionalities from scratch.</li>
-  <li>Familiarity with cloud messaging APIs and push notifications.</li>
-  <li>Use native components (Photos & Videos, Gallery, Sharing, Contacts, Push Notifications, Deep Linking, Geolocation, etc.), React Navigation, Reanimated (animations), and Cloudinary (for image and video optimization).</li>
-  <li>Clerk authentication.</li>
-  <li>Stripe for managing payments automatically at chosen frequencies (monthly, weekly, daily).</li>
-  <li>Experience customizing and writing native React Native components (Objective-C, Swift, Java, Kotlin).</li>
-  <li>Built mobile messaging, fintech, Google Maps API, and e-commerce apps.</li>
-  <li>Experience with client-server applications (REST/WebSockets).</li>
-  <li>Experience with CocoaPods, Gradle.</li>
-  <li>Strong problem-solving skills and attention to detail.</li>
+ <ul>
+      <li>Develop advanced native iOS and Android applications using <strong>React Native</strong>, <strong>Expo</strong>, and modern SDKs.</li>
+      <li>Integrate AI-powered functionalities (e.g., recommendations, predictive analysis).</li>
+      <li>Ensure performance, responsiveness, and quality through rigorous testing and debugging.</li>
+      <li>Implement payment systems with <strong>Stripe</strong> and authentication using <strong>Clerk</strong>.</li>
+      <li>Build client-server interactions (REST, WebSockets) and custom native components using Objective-C, Swift, Java, and Kotlin.</li>
+      <li>Publish mobile apps on app stores with experience in <strong>CocoaPods</strong> and <strong>Gradle</strong>.</li>
+    <li>Use native components (Photos & Videos, Gallery, Sharing, Contacts, Push Notifications, Deep Linking, Geolocation, etc.), React Navigation, Reanimated (animations), and Cloudinary (for image and video optimization) and custom native components using Objective-C, Swift, Java, and Kotlin..</li>
   <li>Experience with Git version control system (cherry-pick, merge, stash).</li>
-  <li>Basic knowledge of CI/CD, Docker, AWS processes.</li>
-  <li>Experience publishing mobile applications in app stores.</li>
-</ul><br/>
+    </ul><br/>
 
 <h2>🌐 For Web Applications:</h2>
 <ul>
-  <li>Implement advanced web application functionalities from scratch.</li>
   <li>Knowledge of web application performance optimization methods.</li>
   <li>Work with the MERN stack (MongoDB, Node.JS (Express), React, Node.js).</li>
   <li>Experience in frontend-backend integration.</li>
@@ -45,16 +32,16 @@
   <li>Understanding of responsive layout principles and cross-browser compatibility.</li>
   <li>Ability to read, analyze, and maintain others' code.</li>
   <li>Write high-quality code and interact with databases and queues.</li>
+  <li>Deployed applications in containerized environments using Docker and Kubernetes, ensuring scalability and reliability</li>
 </ul><br/>
 
 <h1>🌟 Why Choose Me?</h1>
 <p>I can:</p>
 <ul>
-  <li>Work with a world-class team, setting new benchmarks.</li>
-  <li>Tackle global-scale, non-trivial challenges.</li>
-  <li>Grow with unparalleled learning and advancement opportunities.</li>
-  <li>Speak English, Russian, and French.</li>
-  <li><p>Implement advanced application such as: Finance 🏦, Food 🍔, Sports 🏆, Shopping 🛍️, Business 💼, Entertainment 🍿, News 📰, Medical 💉, Education 🎓, Lifestyle 💺, Travel ✈️, Reference 📙, Health 💪, Social 💬, Music 🎵, Dev Tools 🛠️, Weather 🌦️, Photography 📸, Graphics 🖌️ and more</p></li>
+  <li>🌍 Expertise in developing robust and high-performance applications, capable of handling up to 1M+ users.</li>
+  <li>🧠 Smooth integration of advanced features, including AI and microservices.</li>
+  <li>🗣️ Multilingual: English, Russian, French.</li>
+  <li>💼 Experience across diverse domains: <strong>Finance 🏦, Food 🍔, E-commerce 🛍️, Health 💪, Social Media 💬, Music 🎵, and more.</strong></li>
 </ul> <br/>
 
 <h1>🔗 List of Web, Mobile and only Backend Applications</h1>
@@ -73,18 +60,25 @@
 
 <h2>📱 Mobile-Apps</h2>
 <p text-align: justify>Concerning the native mobile projects (IOS and Android) that I had implemented, you can download them on your local machine using the guide that is found in each of these projects in the README.md file. Here are the links to these projects: </br>
-<a href="https://github.com/TatyOko28/Food-Ordering-Mob" target="_blank" rel="noopener noreferrer">Food_Ordering App 🍲</a><br/>
-<a href="https://github.com/TatyOko28/Fintech-app-Mob" target="_blank" rel="noopener noreferrer">FinTech Clone 🚀</a><br/>
-<a href="https://github.com/TatyOko28/AppleWallet-Mob" target="_blank" rel="noopener noreferrer">Apple Wallet Clone 💹</a><br/>
-<a href="https://github.com/TatyOko28/photos_APP-Mob" target="_blank" rel="noopener noreferrer">Vision Camera 🎥</a><br/>
-<a href="https://github.com/TatyOko28/Food_UI-Mob" rel="noopener noreferrer">Food Ordering Application 🍔📲</a><br/>
+    <ul>
+      <li><a href="https://github.com/TatyOko28/Food-Ordering-Mob" target="_blank" rel="noopener noreferrer">Food_Ordering App 🍲 - A complete food ordering system.</a></li>
+      <li><a href="https://github.com/TatyOko28/Fintech-app-Mob" target="_blank" rel="noopener noreferrer">FinTech Clone 🚀</a></li>
+      <li><a href="https://github.com/TatyOko28/AppleWallet-Mob" target="_blank" rel="noopener noreferrer">Apple Wallet Clone 💹 - A replica of the Apple Wallet app.</a></li>
+      <li><a href="https://github.com/TatyOko28/photos_APP-Mob" target="_blank" rel="noopener noreferrer">Vision Camera 🎥 - An advanced camera application.</a></li>
+      <li><a href="https://github.com/TatyOko28/Food_UI-Mob" rel="noopener noreferrer">Food Ordering Application 🍔📲</a></li>
+    </ul>
 </p><br/>
 
 <h2>🖥️ Only Backend-Apps</h2>
-<p text-align: justify>Among these Mobile and Web projects, you will find Full-Stack applications (frontend + Backend), but for the devOps process, you will find it more in this section.  Here are the links to these projects: </br>
-<a href="https://github.com/TatyOko28/crypto_exchange" target="_blank" rel="noopener noreferrer">crypto_exchange with python</a><br/>
-<a href="https://github.com/TatyOko28/Fusion-Brain" target="_blank" rel="noopener noreferrer">Fusion-Brain with Node.js (Nest.js)</a><br/>
-<a href="https://github.com/TatyOko28/full-auth" target="_blank" rel="noopener noreferrer">full-auth with python</a><br/>
-<a href="https://github.com/TatyOko28/Zole" target="_blank" rel="noopener noreferrer">realest_estate with python</a><br/>
-</p>
+ <ul>
+      <li><a href="https://github.com/TatyOko28/crypto_exchange" target="_blank" rel="noopener noreferrer">Crypto Exchange</a> - Python-based crypto trading system.</li>
+      <li><a href="https://github.com/TatyOko28/Fusion-Brain" target="_blank" rel="noopener noreferrer">Fusion-Brain</a> - Node.js application using microservices.</li>
+      <li><a href="https://github.com/TatyOko28/full-auth" target="_blank" rel="noopener noreferrer">Full Auth</a> - Python authentication system.</li>
+      <li><a href="https://github.com/TatyOko28/Zole" target="_blank" rel="noopener noreferrer">Real Estate App</a> - Backend for real estate listings.</li>
+ </ul>
+
+## 🏆 Certifications
+- Google Mobile Web Specialist Certification.
+- Advanced React Development - Udemy.
+- Django Rest Framework Mastery - Coursera.
 
