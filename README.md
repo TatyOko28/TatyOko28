@@ -61,11 +61,11 @@
 <h2>📱 Mobile-Apps</h2>
 <p text-align: justify>Concerning the native mobile projects (IOS and Android) that I had implemented, you can download them on your local machine using the guide that is found in each of these projects in the README.md file. Here are the links to these projects: </br>
     <ul>
-      <li><a href="https://github.com/TatyOko28/Food-Ordering-Mob" target="_blank" rel="noopener noreferrer">Food_Ordering App 🍲 - A complete food ordering system.</a></li>
-      <li><a href="https://github.com/TatyOko28/Fintech-app-Mob" target="_blank" rel="noopener noreferrer">FinTech Clone 🚀</a></li>
-      <li><a href="https://github.com/TatyOko28/AppleWallet-Mob" target="_blank" rel="noopener noreferrer">Apple Wallet Clone 💹 - A replica of the Apple Wallet app.</a></li>
-      <li><a href="https://github.com/TatyOko28/photos_APP-Mob" target="_blank" rel="noopener noreferrer">Vision Camera 🎥 - An advanced camera application.</a></li>
-      <li><a href="https://github.com/TatyOko28/Food_UI-Mob" rel="noopener noreferrer">Food Ordering Application 🍔📲</a></li>
+      <li><a href="https://github.com/TatyOko28/Food-Ordering-Mob" target="_blank" rel="noopener noreferrer">Food_Ordering App</a> 🍲 - A complete food ordering system.</li>
+      <li><a href="https://github.com/TatyOko28/Fintech-app-Mob" target="_blank" rel="noopener noreferrer">FinTech Clone</a> 🚀</li>
+      <li><a href="https://github.com/TatyOko28/AppleWallet-Mob" target="_blank" rel="noopener noreferrer">Apple Wallet Clone</a> 💹 - A replica of the Apple Wallet app.</li>
+      <li><a href="https://github.com/TatyOko28/photos_APP-Mob" target="_blank" rel="noopener noreferrer">Vision Camera</a> 🎥 - An advanced camera application.</li>
+      <li><a href="https://github.com/TatyOko28/Food_UI-Mob" rel="noopener noreferrer">Food Ordering</a> Application 🍔📲</li>
     </ul>
 </p><br/>
 
@@ -75,9 +75,8 @@
       <li><a href="https://github.com/TatyOko28/Fusion-Brain" target="_blank" rel="noopener noreferrer">Fusion-Brain</a> - Node.js application using microservices.</li>
       <li><a href="https://github.com/TatyOko28/full-auth" target="_blank" rel="noopener noreferrer">Full Auth</a> - Python authentication system.</li>
       <li><a href="https://github.com/TatyOko28/Zole" target="_blank" rel="noopener noreferrer">Real Estate App</a> - Backend for real estate listings.</li>
- </ul>
+ </ul><br/>
  
-
 ## 🏆 Certifications
 - Google Mobile Web Specialist Certification.
 - Advanced React Development - Udemy.
