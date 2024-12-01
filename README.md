@@ -76,6 +76,7 @@
       <li><a href="https://github.com/TatyOko28/full-auth" target="_blank" rel="noopener noreferrer">Full Auth</a> - Python authentication system.</li>
       <li><a href="https://github.com/TatyOko28/Zole" target="_blank" rel="noopener noreferrer">Real Estate App</a> - Backend for real estate listings.</li>
  </ul>
+ 
 
 ## 🏆 Certifications
 - Google Mobile Web Specialist Certification.
