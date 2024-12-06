@@ -47,7 +47,7 @@
 <h1>🔗 List of Web, Mobile and only Backend Applications</h1>
 <h2>🌐 List of Web-Apps</h2>
 <a href="https://wallet-an.netlify.app/" target="_blank" rel="noopener noreferrer">Wallet Web-app</a><br/>
-<a href="https://koper.fr/" target="_blank" rel="noopener noreferrer">Wallet Web-app</a><br/>
+<a href="https://koper.fr/" target="_blank" rel="noopener noreferrer">Koper Dom Tom Web-app</a><br/>
 <a href="https://lianau.netlify.app/" target="_blank" rel="noopener noreferrer">Single-page Web-app</a><br/>
 <a href="https://sprir.netlify.app/" target="_blank" rel="noopener noreferrer">Cerveau Web-app</a><br/>
 <a href="https://bouesso-service.netlify.app/" target="_blank" rel="noopener noreferrer">bouesso-service Web-app</a><br/>
