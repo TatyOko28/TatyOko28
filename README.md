@@ -62,6 +62,8 @@
 <h2>📱 Mobile-Apps</h2>
 <p text-align: justify>Concerning the native mobile projects (IOS and Android) that I had implemented, you can download them on your local machine using the guide that is found in each of these projects in the README.md file. Here are the links to these projects: </br>
     <ul>
+      <li><a href="https://apps.apple.com/ru/app/russend/id6503144297?l=en-GB" target="_blank" rel="noopener noreferrer">RUSSEND</a> Send money to Africa with ease</li>
+      <li><a href="https://play.google.com/store/apps/details?id=com.russendsolution.russend&pli=1" target="_blank" rel="noopener noreferrer">RUSSEND</a> Send money to Africa with ease</li>
       <li><a href="https://github.com/TatyOko28/Food-Ordering-Mob" target="_blank" rel="noopener noreferrer">Food_Ordering App</a> 🍲 - A complete food ordering system.</li>
       <li><a href="https://github.com/TatyOko28/Fintech-app-Mob" target="_blank" rel="noopener noreferrer">FinTech Clone</a> 🚀</li>
       <li><a href="https://github.com/TatyOko28/AppleWallet-Mob" target="_blank" rel="noopener noreferrer">Apple Wallet Clone</a> 💹 - A replica of the Apple Wallet app.</li>
