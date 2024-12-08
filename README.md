@@ -85,3 +85,27 @@
 - Advanced React Development - Udemy.
 - Django Rest Framework Mastery - Coursera.
 
+## TaskManager Open Source
+
+TaskManager is a task management application designed to simplify personal and professional organization. Discover its features:
+- ✅ Intuitive organization of tasks by priority.
+- ✅ Real-time collaboration with your colleagues.
+- ✅ Visualization of performance with graphs.
+
+## 📣 Why support TaskManager?
+Your support will allow us to:
+- Fund hosting and maintenance.
+- Add new features, such as integration with Google Calendar.
+- Guarantee reliable and up-to-date software.
+
+## 🎯 Funding goals
+- **100€/month**: Hosting.
+- **250€/month**: Advanced features.
+- **500€/month**: Acceleration of updates.
+
+## 💙 Support us
+[Support TaskManager on Open Collective](https://opencollective.com/dashboard/taskmanager-open-source/tiers)
+
+## 📧 Contact
+For any questions, contact us at: tatyoko28@gmail.com
+
