@@ -1,10 +1,11 @@
 <h1>🎯 Role Summary</h1>
-<p>I am a highly skilled and motivated full stack developer with expertise in building robust cross-platform applications. With over 3 years of experience, I have successfully delivered web and mobile solutions that leverage cutting-edge technologies like AI, CI/CD pipelines, and microservices.</p>
+<p>I am a highly skilled and motivated full stack developer with expertise in building robust cross-platform applications. With over 3 years of experience, I have successfully delivered web and mobile solutions that leverage cutting-edge technologies like AI, CI/CD pipelines, microservices and blockchain.</p>
 <p>Usually for the:</p>
 <ul>
   <li>📲 Frontend: React, Next.js (SSR, SSG, CSR), React Native, Expo, TypeScript, TailwindCSS, Zustand.</li>
   <li>🖥️ Backend: Django, FastAPI, Node.js (Express/Nest), Prisma, microservices architecture.</li>
   <li>🗄️ Databases: PostgreSQL, MySQL, MongoDB, Redis.</li>
+  <li>💎 Blockchain & Multichain: Ethereum, Binance Smart Chain, Polygon, and Solana</li>
   <li>🧠 AI/ML: TensorFlow, PyTorch, Hugging Face, Scikit-learn.</li>
   <li>🛠️ Others: CI/CD pipelines (GitHub Actions, GitLab CI), Docker, WebSockets, RabbitMQ, Celery, Sentry, Nginx, Apache, Redis.</li>
 </ul> <br/>
@@ -35,13 +36,27 @@
   <li>Deployed applications in containerized environments using Docker and Kubernetes, ensuring scalability and reliability</li>
 </ul><br/>
 
+<h2>💎 Blockchain & Multichain Expertise</h2>
+<ul>
+  <li>Smart Contracts: Development and deployment of secure smart contracts using Solidity, Truffle, and Hardhat.</li>  
+  <li>DeFi Protocols: Expertise in staking, yield farming, liquidity pools, and lending/borrowing platforms.</li> 
+  <li>Multichain Integration: Implementations on Ethereum, Binance Smart Chain, Polygon, and Solana, with seamless cross-chain transactions using bridges.</li> 
+  <li>NFT Development: Creation and management of NFTs with IPFS and Pinata for decentralized storage.</li> 
+  <li>Oracles: Integration with Chainlink for reliable and real-time price feeds.</li> 
+  <li>Gas Optimization: Minimization of transaction costs through smart contract optimizations.</li> 
+  <li>Payment Systems: Implementation of hybrid payment gateways combining fiat and crypto.</li> 
+  <li>DEX Platforms: Development of decentralized exchanges (DEX) supporting token swaps and multi-token compatibility.</li> 
+</ul></br>
+
 <h1>🌟 Why Choose Me?</h1>
 <p>I can:</p>
 <ul>
   <li>🌍 Expertise in developing robust and high-performance applications, capable of handling up to 1M+ users.</li>
+  <li>🔗 Blockchain & DeFi Expertise: Development of staking platforms, NFT marketplaces, and DeFi protocols (yield farming, liquidity pools).</li>
+  <li>⛓ Multichain Proficiency: Seamless integrations across Ethereum, BSC, Polygon, and Solana</li>
   <li>🧠 Smooth integration of advanced features, including AI and microservices.</li>
   <li>🗣️ Multilingual: English, Russian, French.</li>
-  <li>💼 Experience across diverse domains: <strong>Finance 🏦, Food 🍔, E-commerce 🛍️, Health 💪, Social Media 💬, Music 🎵, and more.</strong></li>
+  <li>💼 Domain Expertise: <strong>Finance 🏦, Food 🍔, E-commerce 🛍️, Health 💪, Social Media 💬, Music 🎵, DApp, and more.</strong></li>
 </ul> <br/>
 
 <h1>🔗 List of Web, Mobile and only Backend Applications</h1>
