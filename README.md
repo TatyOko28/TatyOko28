@@ -99,6 +99,9 @@
 - Google Mobile Web Specialist Certification.
 - Advanced React Development - Udemy.
 - Django Rest Framework Mastery - Coursera.
+- DeFi Development Mastery - Dapp University.
+- Certified Blockchain Developer (CBD) - ConsenSys
+- Blockchain Developer - Coursera.
 
 ## TaskManager Open Source
 
