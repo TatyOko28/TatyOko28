@@ -59,7 +59,7 @@
   <li>💼 Domain Expertise: <strong>Finance 🏦, Food 🍔, E-commerce 🛍️, Health 💪, Social Media 💬, Music 🎵, DApp, and more.</strong></li>
 </ul> <br/>
 
-<h1>🔗 List of Web, Mobile and only Backend Applications</h1>
+<h1>📜 List of Web, Mobile and only Backend Applications</h1>
 <h2>🌐 List of Web-Apps</h2>
 <a href="https://wallet-an.netlify.app/" target="_blank" rel="noopener noreferrer">Wallet Web-app</a><br/>
 <a href="https://koper.fr/" target="_blank" rel="noopener noreferrer">Koper Dom Tom Web-app</a><br/>
