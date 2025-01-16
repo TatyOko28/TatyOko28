@@ -87,6 +87,17 @@
     </ul>
 </p><br/>
 
+<h2>💎 Blockchain & Multichain Apps</h2>
+<p>Among these projects below, other projects I built alone and others I had participated in. Use VPN if it does not load</p>
+<ul>
+  <li><a href="https://daltonic.github.io/" rel="noopener noreferrer">Darlington Gospel</a></li>
+  <li><a href="https://timelessnft-33dea.web.app/" rel="noopener noreferrer">NFTs Collections</a></li>
+  <li><a href="https://dappmentors.org/" rel="noopener noreferrer">Web 3.0 boom by building decentralized applications</a></li>
+  <li><a href="https://votee-smoky.vercel.app/" rel="noopener noreferrer">Solana Voting Dapp</a></li>
+  <li><a href="https://github.com/TatyOko28/Voting_DApp_Ethereum" rel="noopener noreferrer">Voting_DApp_Ethereum</a></li>
+  <li><a href="https://github.com/TatyOko28/Votee_Solana-DApp" rel="noopener noreferrer">Solana Voting Dapp</a></li>
+</ul>
+
 <h2>🖥️ Only Backend-Apps</h2>
  <ul>
       <li><a href="https://github.com/TatyOko28/crypto_exchange" target="_blank" rel="noopener noreferrer">Crypto Exchange</a> - Python-based crypto trading system.</li>
