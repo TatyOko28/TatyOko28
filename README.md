@@ -50,7 +50,7 @@
 
 <h1>🌟 Why Choose Me?</h1>
 <ul>
-  <li>🌍 Expertise in developing robust and high-performance applications, capable of handling up to 1M+ users.</li>
+  <li>🌍 Expertise in developing robust and high-performance Web and Mobile applications, capable of handling up to 1M+ users.</li>
   <li>🔗 Blockchain & DeFi Expertise: Development of staking platforms, NFT marketplaces, and DeFi protocols (yield farming, liquidity pools).</li>
   <li>⛓ Multichain Proficiency: Seamless integrations across Ethereum, BSC, Polygon, and Solana</li>
   <li>🧠 Smooth integration of advanced features, including AI and microservices.</li>
