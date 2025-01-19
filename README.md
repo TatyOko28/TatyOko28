@@ -49,6 +49,7 @@
 </ul></br>
 
 <h1>🌟 Why Choose Me?</h1>
+<p>I'm full stack developer, and:</p>
 <ul>
   <li>🌍 Expertise in developing robust and high-performance Web and Mobile applications, capable of handling up to 1M+ users.</li>
   <li>🔗 Blockchain & DeFi Expertise: Development of staking platforms, NFT marketplaces, and DeFi protocols (yield farming, liquidity pools).</li>
