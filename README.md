@@ -90,7 +90,6 @@
 <h2>💎 Blockchain & Multichain Apps</h2>
 <p>Among these projects below, other projects I built alone and others I had participated in. Use VPN if it does not load</p>
 <ul>
-  <li><a href="https://daltonic.github.io/" rel="noopener noreferrer">Darlington Gospel</a></li>
   <li><a href="https://timelessnft-33dea.web.app/" rel="noopener noreferrer">NFTs Collections</a></li>
   <li><a href="https://dappmentors.org/" rel="noopener noreferrer">Web 3.0 boom by building decentralized applications</a></li>
   <li><a href="https://votee-smoky.vercel.app/" rel="noopener noreferrer">Solana Voting Dapp</a></li>
