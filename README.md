@@ -7,7 +7,7 @@
   <li>🗄️ Databases: PostgreSQL, MySQL, MongoDB, Redis.</li>
   <li>💎 Blockchain & Multichain: Ethereum, Binance Smart Chain, Polygon, and Solana</li>
   <li>🧠 AI/ML: TensorFlow, PyTorch, Hugging Face, Scikit-learn.</li>
-  <li>🛠️ Others: CI/CD pipelines (GitHub Actions, GitLab CI), Docker, WebSockets, RabbitMQ, Celery, Sentry, Nginx, Apache, Redis, Openzepelin,Hardhat...</li>
+  <li>🛠️ Others: CI/CD pipelines (GitHub Actions, GitLab CI), Docker, WebSockets, RabbitMQ, Celery, Sentry, Nginx, Apache, Redis, Openzepelin, Hardhat...</li>
 </ul> <br/>
 <p>During my career, I have worked with several partners including:</br>
 @madoumadev for web and mobile cross-platform;</br>
