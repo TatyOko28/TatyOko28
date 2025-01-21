@@ -10,10 +10,10 @@
   <li>🛠️ Others: CI/CD pipelines (GitHub Actions, GitLab CI), Docker, WebSockets, RabbitMQ, Celery, Sentry, Nginx, Apache, Redis.</li>
 </ul> <br/>
 <p>During my career, I have worked with several partners including:</p>
-  <ul>
-  </ul>@madoumadev for web and mobile cross-platform;</li>
-  </ul>@Daltonic for Web3 (blockchain)</</li>
-  </ul></br>
+<ul>
+  </li>@madoumadev for web and mobile cross-platform;</li>
+  </li>@Daltonic for Web3 (blockchain)</</li>
+</ul></br>
 
 <h1>🛠️ Responsibilities and Abilities</h1>
 
