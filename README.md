@@ -64,7 +64,8 @@
 </ul> <br/>
 
 <h1>📝 List of Web, Mobile and only Backend Applications</h1>
-<h2>🌐 List of Web-Apps</h2>
+<h2>🌐 List of Web-Apps</h2> 
+<a href="https://www.free-work.com/" target="_blank" rel="noopener noreferrer">Free-Work</a><br/>
 <a href="https://wallet-an.netlify.app/" target="_blank" rel="noopener noreferrer">Wallet Web-app</a><br/>
 <a href="https://koper.fr/" target="_blank" rel="noopener noreferrer">Koper Dom Tom Web-app</a><br/>
 <a href="https://lianau.netlify.app/" target="_blank" rel="noopener noreferrer">Single-page Web-app</a><br/>
