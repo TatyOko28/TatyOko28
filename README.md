@@ -68,7 +68,7 @@
 <a href="https://www.free-work.com/" target="_blank" rel="noopener noreferrer">Free-Work</a><br/>
 <a href="https://wallet-an.netlify.app/" target="_blank" rel="noopener noreferrer">Wallet Web-app</a><br/>
 <a href="https://koper.fr/" target="_blank" rel="noopener noreferrer">Koper Dom Tom Web-app</a><br/>
-<a href="https://lianau.netlify.app/" target="_blank" rel="noopener noreferrer">Single-page Web-app</a><br/>
+<a href="https://swiftyadmin.app/" target="_blank" rel="noopener noreferrer">Single-page Web-app</a><br/>
 <a href="https://sprir.netlify.app/" target="_blank" rel="noopener noreferrer">Cerveau Web-app</a><br/>
 <a href="https://bouesso-service.netlify.app/" target="_blank" rel="noopener noreferrer">bouesso-service Web-app</a><br/>
 <a href="https://mak-spa.netlify.app/" target="_blank" rel="noopener noreferrer">mak-spa Web-app</a><br/>
@@ -82,6 +82,9 @@
 <h2>📱 Mobile-Apps</h2>
 <p text-align: justify>Concerning the native mobile projects (IOS and Android) that I had implemented, you can download them on your local machine using the guide that is found in each of these projects in the README.md file. Here are the links to these projects: </br>
     <ul>
+      <li><a href="https://apps.apple.com/fr/app/renmoney-mfb/id1491158086" target="_blank" rel="noopener noreferrer">Renmoney MFB for Iphone</a> 🚀</li>
+      <li><a href="https://play.google.com/store/apps/details?id=com.renmoney.android&hl=en&gl=NG" target="_blank" rel="noopener noreferrer">Renmoney MFB for android</a> 🚀</li>
+      <li><a href="https://apps.apple.com/us/app/swiftyadmin/id1556085631?l=fr-FR" target="_blank" rel="noopener noreferrer">e-commerce</a> 🚀</li>
       <li><a href="https://apps.apple.com/ru/app/russend/id6503144297?l=en-GB" target="_blank" rel="noopener noreferrer">RUSSEND</a> Send money to Africa with ease</li>
       <li><a href="https://play.google.com/store/apps/details?id=com.russendsolution.russend&pli=1" target="_blank" rel="noopener noreferrer">RUSSEND</a> Send money to Africa with ease</li>
       <li><a href="https://github.com/TatyOko28/Food-Ordering-Mob" target="_blank" rel="noopener noreferrer">Food_Ordering App</a> 🍲 - A complete food ordering system.</li>
