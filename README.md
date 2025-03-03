@@ -5,7 +5,7 @@
   <li>📲 Frontend: React, Next.js (SSR, SSG, CSR), React Native, Expo, TypeScript, TailwindCSS, Zustand.</li>
   <li>🖥️ Backend: Django, FastAPI, Node.js (Express/Nest), Prisma, microservices architecture.</li>
   <li>🗄️ Databases: PostgreSQL, MySQL, MongoDB, Redis.</li>
-  <li>💎 Blockchain & Multichain: Ethereum, Binance Smart Chain, Polygon, Solana, Moralis Web3 API</li>
+  <li>💎 Blockchain & Multichain:  Solidity (EVM), Solana, Moralis Web3 API, TON (in progress)</li>
   <li>🧠 AI/ML: TensorFlow, PyTorch, Hugging Face, Scikit-learn.</li>
   <li>🛠️ Others: CI/CD pipelines (GitHub Actions, GitLab CI), Docker, WebSockets, RabbitMQ, Celery, Sentry, Nginx, Apache, Redis, Openzepelin, Hardhat, Chainlink...</li>
 </ul> <br/>
