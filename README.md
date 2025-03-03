@@ -5,7 +5,7 @@
   <li>📲 Frontend: React, Next.js (SSR, SSG, CSR), React Native, Expo, TypeScript, TailwindCSS, Zustand.</li>
   <li>🖥️ Backend: Django, FastAPI, Node.js (Express/Nest), Prisma, microservices architecture.</li>
   <li>🗄️ Databases: PostgreSQL, MySQL, MongoDB, Redis.</li>
-  <li>💎 Blockchain & Multichain: Ethereum, Binance Smart Chain, Polygon, and Solana</li>
+  <li>💎 Blockchain & Multichain: Ethereum, Binance Smart Chain, Polygon, Solana, Moralis Web3 API</li>
   <li>🧠 AI/ML: TensorFlow, PyTorch, Hugging Face, Scikit-learn.</li>
   <li>🛠️ Others: CI/CD pipelines (GitHub Actions, GitLab CI), Docker, WebSockets, RabbitMQ, Celery, Sentry, Nginx, Apache, Redis, Openzepelin, Hardhat, Chainlink...</li>
 </ul> <br/>
@@ -104,6 +104,7 @@
   <li><a href="https://github.com/TatyOko28/Solana-crypto-info" rel="noopener noreferrer">Solana Token & Pool Info CLI</a></li>
   <li><a href="https://github.com/TatyOko28/Voting_DApp_Ethereum" rel="noopener noreferrer">Voting_DApp_Ethereum</a></li>
   <li><a href="https://github.com/TatyOko28/Votee_Solana-DApp" rel="noopener noreferrer">Solana Voting Dapp</a></li>
+  <li><a href="https://moralis-grap.netlify.app/" rel="noopener noreferrer">Crypto Portfolio with Moralis Web3 API</a></li>
 </ul>
 
 <h2>🖥️ Only Backend-Apps</h2>
