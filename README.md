@@ -100,6 +100,7 @@
 <ul>
   <li><a href="https://timelessnft-33dea.web.app/" rel="noopener noreferrer">NFTs Collections</a></li>
   <li><a href="https://dappmentors.org/" rel="noopener noreferrer">Web 3.0 boom by building decentralized applications</a></li>
+  <li><a href="https://zapper.xyz/" rel="noopener noreferrer">The Onchain Explorer Dapp</a></li>
   <li><a href="https://votee-smoky.vercel.app/" rel="noopener noreferrer">Solana Voting Dapp</a></li>
   <li><a href="https://github.com/TatyOko28/Solana-crypto-info" rel="noopener noreferrer">Solana Token & Pool Info CLI</a></li>
   <li><a href="https://github.com/TatyOko28/Voting_DApp_Ethereum" rel="noopener noreferrer">Voting_DApp_Ethereum</a></li>
