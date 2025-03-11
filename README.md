@@ -1,5 +1,5 @@
 <h1>🎯 Role Summary</h1>
-<p>I am a highly skilled and motivated full stack developer with expertise in building robust cross-platform applications. With over 3 years of experience, I have successfully delivered web and mobile solutions that leverage cutting-edge technologies like AI, CI/CD pipelines, microservices and blockchain.</p>
+<p>I am a highly skilled and motivated full stack developer with expertise in building robust cross-platform applications. With over 3 years of experience, I have successfully delivered web and mobile solutions that leverage cutting-edge technologies like AI, CI/CD pipelines, microservices, blockchain, ChatBot (telegram, whatsapp...).</p>
 <p>Usually for the:</p>
 <ul>
   <li>📲 Frontend: React, Next.js (SSR, SSG, CSR), React Native, Expo, TypeScript, TailwindCSS, Zustand.</li>
@@ -7,7 +7,7 @@
   <li>🗄️ Databases: PostgreSQL, MySQL, MongoDB, Redis.</li>
   <li>💎 Blockchain & Multichain:  Solidity (EVM), Solana, Moralis Web3 API, TON (in progress)</li>
   <li>🧠 AI/ML: TensorFlow, PyTorch, Hugging Face, Scikit-learn.</li>
-  <li>🛠️ Others: CI/CD pipelines (GitHub Actions, GitLab CI), Docker, WebSockets, RabbitMQ, Celery, Sentry, Nginx, Apache, Redis, Openzepelin, Hardhat, Chainlink...</li>
+  <li>🛠️ Others: CI/CD pipelines (GitHub Actions, GitLab CI), Docker, WebSockets, RabbitMQ, Celery, Sentry, Nginx, Apache, Redis, Openzepelin, Hardhat, Chainlink, n8n...</li>
 </ul> <br/>
 <p>During my career, I have worked with several partners including:</br>
 @madoumadev for web and mobile cross-platform;</br>
@@ -59,6 +59,7 @@
   <li>🔗 Blockchain & DeFi Expertise: Development of staking platforms, NFT marketplaces, and DeFi protocols (yield farming, liquidity pools).</li>
   <li>⛓ Multichain Proficiency: Seamless integrations across Ethereum, BSC, Polygon, and Solana</li>
   <li>🧠 Smooth integration of advanced features, including AI and microservices.</li>
+  <li>🤖 Expertise in developing ChatBot robust </li>
   <li>🗣️ Multilingual: English, Russian, French.</li>
   <li>💼 Domain Expertise: <strong>Finance 🏦, Food 🍔, E-commerce 🛍️, Health 💪, Social Media 💬, Music 🎵, DApp, and more.</strong></li>
 </ul> <br/>
