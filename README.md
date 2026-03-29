@@ -120,18 +120,6 @@ These are some of the projects and technical directions I work on. Recruiters ca
 
 <hr>
 
-<h2>GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" alt="GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" alt="GitHub streak"/>
-</p>
-
-<hr>
-
 <h2>Contact</h2>
 
 <p align="center">
