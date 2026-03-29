@@ -6,8 +6,6 @@
   with experience gained both in freelance and corporate environments.
 </p>
 
-<hr>
-
 <h2>About Me</h2>
 
 <p>
