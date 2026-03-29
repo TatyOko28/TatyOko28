@@ -123,12 +123,12 @@ These are some of the projects and technical directions I work on. Recruiters ca
 <h2>Contact</h2>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:tatyoko28@gmail.com">
     <strong>Email Me</strong>
   </a>
   &nbsp;|&nbsp;
-  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER">
-    <strong>WhatsApp</strong>
+  <a href="https://wa.me/+79085118023">
+    <strong>Whatsapp</strong>
   </a>
 </p>
 
