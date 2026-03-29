@@ -8,15 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Spring_Boot-success?style=for-the-badge&logo=springboot" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kafka-Event_Driven-000000?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-</p>
-
 <hr>
 
 <h2>About Me</h2>
