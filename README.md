@@ -30,7 +30,7 @@ My responsibilities focused on ensuring high code quality and adherence to best 
 
 <p>
 With a strong technical background, I have also worked with <strong>Django (Python)</strong> and modern JavaScript technologies
-(<strong>NestJS, React, React Native, Next.js, Angular</strong>).
+(<strong>NestJS, React, React Native, Next.js, Blockchain, Web3 and Angular</strong>).
 However, my main focus and expertise lie in <strong>Spring Boot and Angular</strong>,
 which are well-suited for building scalable and robust enterprise applications.
 </p>
@@ -79,7 +79,7 @@ Feel free to reach out — I would be glad to collaborate and build great soluti
   <li><strong>Frontend:</strong> Angular, TypeScript, RxJS</li>
   <li><strong>DevOps:</strong> Docker, GitHub Actions, CI/CD</li>
   <li><strong>Cloud:</strong> AWS, LocalStack, Infrastructure as Code</li>
-  <li><strong>Database:</strong> PostgreSQL</li>
+  <li><strong>Database:</strong> PostgreSQL, MongoDB, MySQL</li>
   <li><strong>Architecture:</strong> Monolith to Microservices, Event-driven systems, API Gateway</li>
 </ul>
 
