@@ -131,7 +131,7 @@ These are some of the projects and technical directions I work on. Recruiters ca
     <strong>Whatsapp</strong>
   </a>
   &nbsp;|&nbsp;
-   <a href="https://t.me/Tatyoko28" target="_blank">
+   <a https://web.telegram.org/a/#6557070915 target="_blank">
     <strong>Telegram</strong>
   </a
 </p>
