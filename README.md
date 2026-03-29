@@ -123,13 +123,16 @@ These are some of the projects and technical directions I work on. Recruiters ca
 <h2>Contact</h2>
 
 <p align="center">
-  <a href="mailto:tatyoko28@gmail.com">
+  <a href="mailto:tatyoko28@gmail.com" target="_blank">
     <strong>Email Me</strong>
   </a>
   &nbsp;|&nbsp;
-  <a href="https://wa.me/+79085118023">
+  <a href="https://wa.me/+79085118023" target="_blank">
     <strong>Whatsapp</strong>
   </a>
+   <a "https://t.me/@Tatyoko28" target="_blank">
+    <strong>Telegram</strong>
+  </a
 </p>
 
 <p align="center">
