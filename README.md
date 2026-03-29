@@ -1,17 +1,12 @@
-<h1 align="center">Mercure Nzomono Makanga</h1>
-<h3 align="center">Full Stack Developer | Java (Spring Boot) • Angular • Microservices</h3>
+<h1 align="center">🚀 Full Stack Developer</h1>
+<h3 align="center">Java (Spring Boot) • Angular • Scalable Systems</h3>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
+  <b>I am a Full Stack Developer specialized in Java (Spring Boot) and Angular</b>,<br>
+  with experience gained both in freelance and corporate environments.
 </p>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Spring_Boot-success?style=for-the-badge&logo=springboot" alt="Spring Boot"/>
