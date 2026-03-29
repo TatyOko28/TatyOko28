@@ -1,9 +1,25 @@
-<h1 align="center">🚀 Full Stack Developer</h1>
-<h3 align="center">Java (Spring Boot) • Angular • Scalable Systems</h3>
+<h1 align="center">🚀 Mercure Nzomono Makanga</h1>
+<h3 align="center">Full Stack Developer | Java (Spring Boot) • Angular • Microservices</h3>
 
 <p align="center">
-  <b>I am a Full Stack Developer specialized in Java (Spring Boot) and Angular</b>,<br>
-  with experience gained both in freelance and corporate environments.
+  <img src="https://img.shields.io/badge/Java-SpringBoot-red?style=for-the-badge&logo=springboot">
+  <img src="https://img.shields.io/badge/Angular-Frontend-red?style=for-the-badge&logo=angular">
+  <img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker">
+  <img src="https://img.shields.io/badge/Kafka-EventDriven-black?style=for-the-badge&logo=apachekafka">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws">
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql">
+</p>
+
+---
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I am a <b>Full Stack Developer specialized in Java (Spring Boot) and Angular</b>, with experience in both freelance and enterprise environments.
+</p>
+
+<p>
+I focus on building <b>scalable, high-performance applications</b> using modern architectures like <b>microservices</b> and <b>event-driven systems</b>.
 </p>
 
 ---
@@ -11,74 +27,96 @@
 <h2>💼 Experience</h2>
 
 <p>
-In my recent work, I contributed to an <b>e-commerce project</b> within a team of three developers 
-(one Angular frontend developer, one Java backend developer, and myself as a Full Stack developer).
+Recently, I worked on an <b>e-commerce platform</b> within a team of 3 developers:
 </p>
 
-<p><b>My responsibilities included:</b></p>
+<ul>
+  <li>Frontend Developer (Angular)</li>
+  <li>Backend Developer (Java)</li>
+  <li><b>My role: Full Stack + Code Quality Engineer</b></li>
+</ul>
+
+<p><b>Key responsibilities:</b></p>
 
 <ul>
-  <li>✔️ Implementing and reviewing design patterns</li>
-  <li>✔️ Applying best practices: <b>DRY</b> & <b>KISS</b></li>
-  <li>✔️ Writing and validating <b>unit, integration, and end-to-end tests</b></li>
+  <li>✔️ Enforcing design patterns & clean architecture</li>
+  <li>✔️ Applying <b>DRY</b> & <b>KISS</b> principles</li>
+  <li>✔️ Writing <b>unit, integration & e2e tests</b></li>
   <li>✔️ Setting up <b>CI/CD pipelines (GitHub Actions)</b></li>
-  <li>✔️ Containerizing applications using <b>Docker</b></li>
+  <li>✔️ Dockerizing applications</li>
 </ul>
 
 ---
 
-<h2>🧠 Technical Background</h2>
+<h2>🏢 Enterprise Projects</h2>
 
 <p>
-I have worked with:
+Worked on projects for <b>SberMarket</b>, part of <b>Sberbank</b> (top banking group in Russia).
 </p>
+
+<p>
+Handled migration from <b>Monolithic → Microservices Architecture</b>.
+</p>
+
+---
+
+<h2>⚙️ Tech Stack</h2>
+
+<h3>Backend</h3>
+<p>
+Java • Spring Boot • Hibernate • REST • gRPC • JWT
+</p>
+
+<h3>Frontend</h3>
+<p>
+Angular • TypeScript • RxJS
+</p>
+
+<h3>DevOps & Cloud</h3>
+<p>
+Docker • GitHub Actions • AWS • LocalStack • CI/CD
+</p>
+
+<h3>Databases</h3>
+<p>
+PostgreSQL
+</p>
+
+<h3>Architecture</h3>
+<p>
+Microservices • Event-driven (Kafka) • API Gateway • Load Balancer
+</p>
+
+---
+
+<h2>🚀 What I Built</h2>
 
 <ul>
-  <li><b>Django (Python)</b></li>
-  <li><b>NestJS, React, React Native, Next.js, Angular</b></li>
+  <li>🔹 Microservices with Spring Boot & Docker</li>
+  <li>🔹 Event-driven systems using Kafka</li>
+  <li>🔹 Secure APIs with JWT authentication</li>
+  <li>🔹 Real-time communication (REST & gRPC)</li>
+  <li>🔹 AWS deployments using Infrastructure as Code</li>
 </ul>
-
-<p>
-However, my main expertise lies in <b>Spring Boot & Angular</b>, 
-perfect for building <b>scalable and robust enterprise applications</b>.
-</p>
 
 ---
 
-<h2>🏗️ Enterprise Experience</h2>
+<h2>📊 GitHub Stats</h2>
 
-<p>
-I have contributed to projects of various sizes (MVPs → large-scale microservices), including work for 
-<b>SberMarket</b>, a subsidiary of <b>Sberbank</b>, one of the leading banking groups in Russia.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical">
 </p>
 
----
-
-<h2>⚙️ Microservices Architecture</h2>
-
-<p>
-I was involved in transforming a <b>monolithic architecture into microservices</b>, ensuring scalability and independence.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical">
 </p>
-
-<ul>
-  <li>🚀 Java, Spring Boot & Docker Microservices</li>
-  <li>🗄️ PostgreSQL Databases</li>
-  <li>🌐 API Gateway & Load Balancers</li>
-  <li>📡 Event-driven architecture with Kafka</li>
-  <li>⚡ REST & gRPC (real-time communication)</li>
-  <li>🔐 JWT Authentication (Bearer tokens)</li>
-  <li>🧪 Integration Testing</li>
-  <li>☁️ AWS Deployment (LocalStack + IaC)</li>
-  <li>🔄 CI/CD with automated testing</li>
-</ul>
 
 ---
 
 <h2>🎯 Current Goal</h2>
 
 <p>
-I am currently seeking new opportunities.<br>
-I am highly motivated to join a dynamic team and contribute to impactful projects.
+I am currently looking for new opportunities to contribute to impactful and scalable projects.
 </p>
 
 ---
@@ -87,5 +125,5 @@ I am highly motivated to join a dynamic team and contribute to impactful project
 
 <p align="center">
   💡 <b>Let’s build something great together!</b><br><br>
-  📩 Feel free to reach out
+  📩 Open to opportunities • Collaboration • Freelance
 </p>
