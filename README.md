@@ -1,169 +1,91 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mercure Nzomono Makanga - Professional Profile</title>
-  <style>
-    * {
-      box-sizing: border-box;
-    }
+<h1 align="center">🚀 Full Stack Developer</h1>
+<h3 align="center">Java (Spring Boot) • Angular • Scalable Systems</h3>
 
-    body {
-      margin: 0;
-      font-family: Arial, Helvetica, sans-serif;
-      background: #f4f7fb;
-      color: #1f2937;
-      line-height: 1.7;
-    }
+<p align="center">
+  <b>I am a Full Stack Developer specialized in Java (Spring Boot) and Angular</b>,<br>
+  with experience gained both in freelance and corporate environments.
+</p>
 
-    .container {
-      max-width: 900px;
-      margin: 40px auto;
-      background: #ffffff;
-      padding: 48px;
-      border-radius: 18px;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
-    }
+---
 
-    h1 {
-      margin: 0 0 10px;
-      font-size: 2rem;
-      color: #0f172a;
-    }
+<h2>💼 Experience</h2>
 
-    h2 {
-      margin-top: 36px;
-      margin-bottom: 14px;
-      font-size: 1.2rem;
-      color: #111827;
-      border-left: 5px solid #2563eb;
-      padding-left: 12px;
-    }
+<p>
+In my recent work, I contributed to an <b>e-commerce project</b> within a team of three developers 
+(one Angular frontend developer, one Java backend developer, and myself as a Full Stack developer).
+</p>
 
-    p {
-      margin: 14px 0;
-      font-size: 1rem;
-    }
+<p><b>My responsibilities included:</b></p>
 
-    ul {
-      margin: 12px 0 0 20px;
-      padding: 0;
-    }
+<ul>
+  <li>✔️ Implementing and reviewing design patterns</li>
+  <li>✔️ Applying best practices: <b>DRY</b> & <b>KISS</b></li>
+  <li>✔️ Writing and validating <b>unit, integration, and end-to-end tests</b></li>
+  <li>✔️ Setting up <b>CI/CD pipelines (GitHub Actions)</b></li>
+  <li>✔️ Containerizing applications using <b>Docker</b></li>
+</ul>
 
-    li {
-      margin: 8px 0;
-    }
+---
 
-    .intro {
-      font-size: 1.05rem;
-    }
+<h2>🧠 Technical Background</h2>
 
-    .highlight {
-      color: #2563eb;
-      font-weight: bold;
-    }
+<p>
+I have worked with:
+</p>
 
-    .footer {
-      margin-top: 36px;
-      padding-top: 20px;
-      border-top: 1px solid #e5e7eb;
-      font-weight: bold;
-    }
+<ul>
+  <li><b>Django (Python)</b></li>
+  <li><b>NestJS, React, React Native, Next.js, Angular</b></li>
+</ul>
 
-    .tagline {
-      color: #4b5563;
-      margin-bottom: 28px;
-    }
+<p>
+However, my main expertise lies in <b>Spring Boot & Angular</b>, 
+perfect for building <b>scalable and robust enterprise applications</b>.
+</p>
 
-    @media (max-width: 768px) {
-      .container {
-        margin: 20px;
-        padding: 28px;
-      }
+---
 
-      h1 {
-        font-size: 1.6rem;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>Mercure Nzomono Makanga</h1>
-    <p class="tagline">Full Stack Developer | Java (Spring Boot) | Angular</p>
+<h2>🏗️ Enterprise Experience</h2>
 
-    <p class="intro">
-      Hello,
-    </p>
+<p>
+I have contributed to projects of various sizes (MVPs → large-scale microservices), including work for 
+<b>SberMarket</b>, a subsidiary of <b>Sberbank</b>, one of the leading banking groups in Russia.
+</p>
 
-    <p>
-      I am a <span class="highlight">Full Stack Developer specialized in Java (Spring Boot) and Angular</span>,
-      with experience gained both in freelance and corporate environments.
-    </p>
+---
 
-    <p>
-      In my recent work, I contributed to an <span class="highlight">e-commerce project</span> within a team of three developers
-      (one Angular frontend developer, one Java backend developer, and myself as a Full Stack developer).
-      My responsibilities focused on ensuring high code quality and adherence to best practices.
-      Specifically, I was in charge of:
-    </p>
+<h2>⚙️ Microservices Architecture</h2>
 
-    <ul>
-      <li>Implementing and reviewing appropriate design patterns</li>
-      <li>Applying best practices such as <strong>DRY (Don’t Repeat Yourself)</strong> and <strong>KISS</strong></li>
-      <li>Writing and validating <strong>unit, integration, and end-to-end tests</strong></li>
-      <li>Setting up <strong>CI/CD pipelines using GitHub Actions</strong> with automated testing</li>
-      <li>Containerizing applications using <strong>Docker</strong></li>
-    </ul>
+<p>
+I was involved in transforming a <b>monolithic architecture into microservices</b>, ensuring scalability and independence.
+</p>
 
-    <h2>Technical Background</h2>
-    <p>
-      With a strong technical background, I have also worked with <strong>Django (Python)</strong> and modern JavaScript technologies
-      such as <strong>NestJS, React, React Native, Next.js, and Angular</strong>.
-      However, my main focus and expertise lie in <span class="highlight">Spring Boot and Angular</span>,
-      which are well-suited for building scalable and robust enterprise applications.
-    </p>
+<ul>
+  <li>🚀 Java, Spring Boot & Docker Microservices</li>
+  <li>🗄️ PostgreSQL Databases</li>
+  <li>🌐 API Gateway & Load Balancers</li>
+  <li>📡 Event-driven architecture with Kafka</li>
+  <li>⚡ REST & gRPC (real-time communication)</li>
+  <li>🔐 JWT Authentication (Bearer tokens)</li>
+  <li>🧪 Integration Testing</li>
+  <li>☁️ AWS Deployment (LocalStack + IaC)</li>
+  <li>🔄 CI/CD with automated testing</li>
+</ul>
 
-    <h2>Enterprise Experience</h2>
-    <p>
-      I have contributed to projects of various sizes, including <strong>MVPs, mid-scale systems, and large-scale microservices architectures</strong>.
-      Among them were projects for <strong>SberMarket</strong>, a subsidiary of <strong>Sberbank</strong>,
-      one of the leading banking groups in Russia.
-    </p>
+---
 
-    <p>
-      In this context, I was involved in transforming a <strong>monolithic architecture into a microservices architecture</strong>,
-      ensuring that each service became independent and scalable.
-      I implemented and worked with:
-    </p>
+<h2>🎯 Current Goal</h2>
 
-    <ul>
-      <li>Microservices using <strong>Java, Spring Boot, and Docker</strong></li>
-      <li><strong>PostgreSQL</strong> databases</li>
-      <li><strong>API Gateways</strong> and <strong>Load Balancers</strong> for request routing</li>
-      <li>Event-driven communication with <strong>Kafka</strong></li>
-      <li>Real-time communication using <strong>REST and gRPC</strong></li>
-      <li>API security with <strong>Bearer tokens (JWT)</strong></li>
-      <li><strong>Integration testing</strong></li>
-      <li>Deployment on <strong>AWS</strong> using <strong>LocalStack</strong> and <strong>Infrastructure as Code</strong></li>
-      <li><strong>CI/CD pipelines</strong> with automated testing</li>
-    </ul>
+<p>
+I am currently seeking new opportunities.<br>
+I am highly motivated to join a dynamic team and contribute to impactful projects.
+</p>
 
-    <h2>Current Objective</h2>
-    <p>
-      Currently, I am seeking new opportunities, as my previous contract has come to an end.
-      I am highly motivated to join a dynamic team and contribute to impactful and scalable projects.
-    </p>
+---
 
-    <p>
-      Feel free to reach out — I would be glad to collaborate and build great solutions together.
-    </p>
+<h2>📬 Contact</h2>
 
-    <p class="footer">
-      Best regards,<br />
-      Mercure Nzomono Makanga
-    </p>
-  </div>
-</body>
-</html>
+<p align="center">
+  💡 <b>Let’s build something great together!</b><br><br>
+  📩 Feel free to reach out
+</p>
