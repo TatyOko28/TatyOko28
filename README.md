@@ -130,7 +130,8 @@ These are some of the projects and technical directions I work on. Recruiters ca
   <a href="https://wa.me/+79085118023" target="_blank">
     <strong>Whatsapp</strong>
   </a>
-   <a "https://t.me/@Tatyoko28" target="_blank">
+  &nbsp;|&nbsp;
+   <a href="https://t.me/@Tatyoko28" target="_blank">
     <strong>Telegram</strong>
   </a
 </p>
