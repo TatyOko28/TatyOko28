@@ -127,13 +127,15 @@ These are some of the projects and technical directions I work on. Recruiters ca
     <strong>Email Me</strong>
   </a>
   &nbsp;|&nbsp;
+
   <a href="https://wa.me/+79085118023" target="_blank">
     <strong>Whatsapp</strong>
   </a>
   &nbsp;|&nbsp;
-   <a href= "https://web.telegram.org/a/#6557070915" target="_blank">
+
+  <a href="https://t.me/Tatyoko28?text=Hello%20I%20am%20interested%20in%20your%20profile" target="_blank">
     <strong>Telegram</strong>
-  </a
+  </a>
 </p>
 
 <p align="center">
