@@ -107,9 +107,9 @@ These are some of the projects and technical directions I work on. Recruiters ca
   <h3>⚙️ Backend & Fullstack Projects</h3>
 
   <p>
-   🔸 <a href="https://github.com/TatyOko28/Ecommerce-Java-Spring-Angular">E-commerce</a>  <br/>
-   🔸 <a href="https://github.com/TatyOko28/Microservices-java-spring">Microservices</a>  <br/>
-   🔸 <a href="https://github.com/TatyOko28/Whatsapp-clone">WhatsApp Clone</a>
+   🔸 <a href="https://github.com/TatyOko28/Ecommerce-Java-Spring-Angular"><strong>E-commerce</strong></a>  <br/>
+   🔸 <a href="https://github.com/TatyOko28/Microservices-java-spring"><strong>Microservices</strong></a>  <br/>
+   🔸 <a href="https://github.com/TatyOko28/Whatsapp-clone"><strong>WhatsApp Clone</strong></a>
   </p>
 
   <br/>
