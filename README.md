@@ -91,32 +91,36 @@ Feel free to reach out — I would be glad to collaborate and build great soluti
 These are some of the projects and technical directions I work on. Recruiters can quickly review them to understand my engineering approach, architecture choices, and delivery capabilities.
 </p>
 
-<table>
-  <tr>
-    <td><strong>Project</strong></td>
-    <td><strong>Description</strong></td>
-    <td><strong>Tech Stack</strong></td>
-    <td><strong>Link</strong></td>
-  </tr>
-  <tr>
-    <td>E-Commerce Platform</td>
-    <td>Scalable e-commerce application with strong code quality practices, testing, CI/CD, and containerization.</td>
-    <td>Java, Spring Boot, Angular, Docker, GitHub Actions</td>
-    <td><a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_1">View Project</a></td>
-  </tr>
-  <tr>
-    <td>Microservices Migration</td>
-    <td>Transformation of a monolithic system into independent and scalable microservices.</td>
-    <td>Spring Boot, Kafka, PostgreSQL, Docker, API Gateway</td>
-    <td><a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_2">View Project</a></td>
-  </tr>
-  <tr>
-    <td>Full Stack Enterprise App</td>
-    <td>Enterprise-oriented web platform with secure APIs, frontend integration, and production-ready practices.</td>
-    <td>Java, Angular, PostgreSQL, JWT, CI/CD</td>
-    <td><a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_3">View Project</a></td>
-  </tr>
-</table>
+  <p>
+    🔹 <a href="https://kuper.ru/" target="_blank"><strong>Kuper Project</strong></a><br/>
+    🔹 <a href="https://bouesso-service.netlify.app/" target="_blank"><strong>Bouesso Service</strong></a><br/>
+    🔹 <a href="https://wallet-an.netlify.app/" target="_blank"><strong>Wallet App</strong></a><br/>
+    🔹 <a href="https://sprir.netlify.app/" target="_blank"><strong>Sprir Platform</strong></a><br/>
+    🔹 <a href="https://shopandy-1.vercel.app/" target="_blank"><strong>ShopAndy E-commerce</strong></a><br/>
+    🔹 <a href="https://nivo-two.vercel.app/" target="_blank"><strong>Nivo Dashboard</strong></a><br/>
+    🔹 <a href="https://sponb.netlify.app/" target="_blank"><strong>Sponb Platform</strong></a>
+  </p>
+
+  <br/>
+
+  <!-- BACKEND / GITHUB -->
+  <h3>⚙️ Backend & Fullstack Projects</h3>
+
+  <p>
+    🔸 <a href="https://github.com/TatyOko28/Ecommerce-Java-Spring-Angular" target="_blank">
+      <strong>E-commerce (Java Spring Boot + Angular)</strong>
+    </a><br/>
+
+    🔸 <a href="https://github.com/TatyOko28/Microservices-java-spring" target="_blank">
+      <strong>Microservices Architecture (Spring Boot)</strong>
+    </a><br/>
+
+    🔸 <a href="https://github.com/TatyOko28/Whatsapp-clone" target="_blank">
+      <strong>WhatsApp Clone (Spring Boot + WebSocket)</strong>
+    </a>
+  </p>
+
+  <br/>
 
 <hr>
 
