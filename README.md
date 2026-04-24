@@ -99,6 +99,7 @@ These are some of the projects and technical directions I work on. Recruiters ca
     🔹 <a href="https://shopandy-1.vercel.app/" target="_blank"><strong>ShopAndy E-commerce</strong></a><br/>
     🔹 <a href="https://nivo-two.vercel.app/" target="_blank"><strong>Nivo Dashboard</strong></a><br/>
     🔹 <a href="https://sponb.netlify.app/" target="_blank"><strong>Sponb Platform</strong></a>
+    🔹 <a href="https://github.com/TatyOko28/Bank-Rest" target="_blank"><strong>Mini app Bank-application</strong></a>
   </p>
 
   <br/>
