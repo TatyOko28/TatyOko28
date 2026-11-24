@@ -128,8 +128,6 @@
   <li><a href="https://www.webdoctors.com/"><b>web doctors</b></a></li>
   <li><a href="https://www.jobup.ch/en/"><b>Find a job that truly fits you</b></a></li>
   <li><a href="https://www.pif.gov.sa/en/"><b>Investments </b></a></li>
-  <li><a href="https://wallet-an.netlify.app/"><b>Wallet App</b></a></li>
-  <li><a href="https://bouesso-service.netlify.app/"><b>Bouesso Service</b></a></li>
   <li><a href="https://sprir.netlify.app/"><b>Sprir Platform</b></a></li>
   <li><a href="https://sponb.netlify.app/"><b>Sponb Platform</b></a></li>
 </ul>
