@@ -125,8 +125,9 @@
 
 <ul>
   <li><a href="https://kuper.ru/"><b>Kuper</b></a></li>
-  <li><a href="https://shopandy-1.vercel.app/"><b>ShopAndy E-commerce</b></a></li>
-  <li><a href="https://nivo-two.vercel.app/"><b>Nivo Dashboard</b></a></li>
+  <li><a href="https://www.webdoctors.com/"><b>web doctors logo</b></a></li>
+  <li><a href="https://www.jobup.ch/en/"><b>Find a job that truly fits you</b></a></li>
+  <li><a href="https://www.pif.gov.sa/en/"><b>Investments </b></a></li>
   <li><a href="https://wallet-an.netlify.app/"><b>Wallet App</b></a></li>
   <li><a href="https://bouesso-service.netlify.app/"><b>Bouesso Service</b></a></li>
   <li><a href="https://sprir.netlify.app/"><b>Sprir Platform</b></a></li>
