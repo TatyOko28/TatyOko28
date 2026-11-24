@@ -125,7 +125,7 @@
 
 <ul>
   <li><a href="https://kuper.ru/"><b>Kuper</b></a></li>
-  <li><a href="https://www.webdoctors.com/"><b>web doctors logo</b></a></li>
+  <li><a href="https://www.webdoctors.com/"><b>web doctors</b></a></li>
   <li><a href="https://www.jobup.ch/en/"><b>Find a job that truly fits you</b></a></li>
   <li><a href="https://www.pif.gov.sa/en/"><b>Investments </b></a></li>
   <li><a href="https://wallet-an.netlify.app/"><b>Wallet App</b></a></li>
