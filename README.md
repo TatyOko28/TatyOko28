@@ -119,6 +119,7 @@
   <li><a href="https://github.com/TatyOko28/Microservices-java-spring"><b>Microservices</b></a> (Java, Spring)</li>
   <li><a href="https://github.com/TatyOko28/Bank-Rest"><b>Bank REST API</b></a> (backend only)</li>
   <li><a href="https://github.com/TatyOko28/Whatsapp-clone"><b>WhatsApp Clone</b></a></li>
+  <li><a href="https://github.com/TatyOko28/spring-boot-3-microservices?tab=readme-ov-file"><b>spring-boot-3-microservices</b></a></li>
 </ul>
 
 <h3>Live Applications</h3>
